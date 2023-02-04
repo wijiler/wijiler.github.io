@@ -12,9 +12,9 @@ function App() {
     <div className='text'>
     <h1 ><strong>A Brief Introduction</strong></h1>
     <p className='subtext'>
-      I am a self-taught developer I am capable of fullstack applications,although I find I am better at writing frontend applications<br></br>I like to use technoligies such as Rust and ReactJS.I love what I do and it is a passion I have come to love.
+      I am a self-taught developer capable of fullstack applications,although I find I am better at writing frontend applications<br></br>I like to use technologies such as Rust and ReactJS.I love what I do and it is a passion I have come to love.
       <br></br>
-      I am currently developing my own programming language called ferric in Rust, I do intend to later bootstrap this programming language.
+      Currently developing my own programming language called <a href="https://github.com/wijiler/ferrous">ferrous</a> in Rust, I do intend to later bootstrap this programming language.
       <br></br>
       I currently do freelance work and make websites for my friends or myself. I thouroughly enjoy the process of web design and working with others.
       <br></br>
