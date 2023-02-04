@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "ghdeploy": "gh-pages -d build"
+    "ghdeploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.2.0",
