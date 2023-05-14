@@ -6,7 +6,7 @@ function App() {
     {/* Image/Header */}
     <div className='parent'>
     <img src="/header.gif" width="600px" id="gifheader" className='sticky'></img>
-    <img src='/logo.png' className='sticky' id="logo"></img>
+    <img src='/wijogotransparent.png' className='sticky' id="logo"></img>
     </div>
     {/* Texts */}
     <div className='text'>
