@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="250.83174mm"
+   height="312.23868mm"
+   viewBox="0 0 250.83174 312.23868"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="jrndr.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.38675249"
+     inkscape:cx="828.69537"
+     inkscape:cy="426.62944"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9235">
+      <stop
+         style="stop-color:#dddddd;stop-opacity:1;"
+         offset="0"
+         id="stop9231" />
+      <stop
+         style="stop-color:#dddddd;stop-opacity:0;"
+         offset="1"
+         id="stop9233" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9235"
+       id="linearGradient9237"
+       x1="101.59557"
+       y1="94.57473"
+       x2="101.66782"
+       y2="84.648659"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0666911,0,0,0.95652035,-6.3273982,1.4464147)" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     transform="translate(16.652729,2.6019897)">
+    <rect
+       style="fill:#3c69ff;fill-opacity:1;stroke:#001649;stroke-width:0"
+       id="rect7719"
+       width="250.83173"
+       height="312.23868"
+       x="-16.652729"
+       y="-2.601989" />
+    <rect
+       style="fill:url(#linearGradient9237);fill-opacity:1;stroke:#001649;stroke-width:0"
+       id="rect9125"
+       width="13.299999"
+       height="13.239207"
+       x="94.843811"
+       y="83.010796" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(16.652729,2.6019897)">
+    <text
+       xml:space="preserve"
+       style="font-size:100.02px;font-family:Futura;-inkscape-font-specification:Futura;fill:#dddddd;fill-opacity:1;stroke:#001649;stroke-width:0"
+       x="61.806576"
+       y="185.67409"
+       id="text7660"
+       transform="scale(1.1522585,0.8678608)"><tspan
+         sodipodi:role="line"
+         id="tspan7658"
+         style="stroke-width:0"
+         x="61.806576"
+         y="185.67409">J</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:83.1988px;font-family:Futura;-inkscape-font-specification:Futura;fill:#dddddd;fill-opacity:1;stroke:#001649;stroke-width:0"
+       x="91.526985"
+       y="194.50345"
+       id="text7714"
+       transform="scale(1.044647,0.95726119)"><tspan
+         sodipodi:role="line"
+         id="tspan7712"
+         style="font-size:83.1988px;stroke-width:0"
+         x="91.526985"
+         y="194.50345">R</tspan></text>
+  </g>
+</svg>
